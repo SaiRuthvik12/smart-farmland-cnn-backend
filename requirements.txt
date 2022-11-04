@@ -1,0 +1,6 @@
+numpy
+tensorflow
+Flask==2.1.2
+Werkzeug==2.0.1
+gevent==22.10.1
+gunicorn
